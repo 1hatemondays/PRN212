@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A249F92-5137-4A90-B548-F6ADC41DE2F4}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A249F92-5137-4A90-B548-F6ADC41DE2F4}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|solutionrelative:oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A249F92-5137-4A90-B548-F6ADC41DE2F4}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop4_generic_collection\\oop4_generic_collection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A249F92-5137-4A90-B548-F6ADC41DE2F4}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|solutionrelative:oop4_generic_collection\\oop4_generic_collection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|solutionrelative:oop2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2_reuse_as_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|solutionrelative:oop2_reuse_as_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|solutionrelative:oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AB59D6-2C54-4366-93EF-65C38A041811}|OOP2\\OOP2.csproj|solutionrelative:oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2_reuse_as_library\\oop2_reuse_as_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|solutionrelative:oop2_reuse_as_library\\oop2_reuse_as_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\oop2_reuse_as_library\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F7B530-3F32-4461-B6C3-9BCB4EB0E012}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|solutionrelative:oop2_reuse_as_library\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138E785-FA09-4932-BC46-99B166A4F638}|Buoi5\\OOP3_Extension_Method.csproj|c:\\fptu\\su25\\prn212\\prn212\\oop2\\buoi5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138E785-FA09-4932-BC46-99B166A4F638}|Buoi5\\OOP3_Extension_Method.csproj|solutionrelative:buoi5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP2\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\PartTimeEmployee.cs",
+              "RelativeToolTip": "OOP2\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:23:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP4_Generic_Collection.csproj",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj",
+              "RelativeDocumentMoniker": "OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj",
+              "RelativeToolTip": "OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T04:10:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP4_Generic_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "OOP4_Generic_Collection\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP4_Generic_Collection\\Program.cs",
+              "RelativeToolTip": "OOP4_Generic_Collection\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv3wAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:10:55.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP2\\Employee.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\Employee.cs",
+              "RelativeToolTip": "OOP2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:01:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FulltimeEmployee.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\FulltimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP2\\FulltimeEmployee.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2\\FulltimeEmployee.cs",
+              "RelativeToolTip": "OOP2\\FulltimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:01:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YourUtils.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\YourUtils.cs",
+              "RelativeDocumentMoniker": "OOP2_Reuse_As_Library\\YourUtils.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\YourUtils.cs",
+              "RelativeToolTip": "OOP2_Reuse_As_Library\\YourUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:58:21.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OOP2_Reuse_As_Library.csproj",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj",
+              "RelativeDocumentMoniker": "OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj",
+              "RelativeToolTip": "OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T03:56:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\Program.cs",
+              "RelativeDocumentMoniker": "OOP2_Reuse_As_Library\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\OOP2_Reuse_As_Library\\Program.cs",
+              "RelativeToolTip": "OOP2_Reuse_As_Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:56:03.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\Buoi5\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi5\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212\\OOP2\\Buoi5\\Program.cs",
+              "RelativeToolTip": "Buoi5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:28:26.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

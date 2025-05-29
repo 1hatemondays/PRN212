@@ -1,0 +1,14 @@
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.AssemblyInfoInputs.cache
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.AssemblyInfo.cs
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.csproj.CoreCompileInputs.cache
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\bin\Debug\net8.0\OOP3_Extension_Method.exe
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\bin\Debug\net8.0\OOP3_Extension_Method.deps.json
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\bin\Debug\net8.0\OOP3_Extension_Method.runtimeconfig.json
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\bin\Debug\net8.0\OOP3_Extension_Method.dll
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\bin\Debug\net8.0\OOP3_Extension_Method.pdb
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.dll
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\refint\OOP3_Extension_Method.dll
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.pdb
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\OOP3_Extension_Method.genruntimeconfig.cache
+C:\FPTU\SU25\PRN212\OOP2\Buoi5\obj\Debug\net8.0\ref\OOP3_Extension_Method.dll
