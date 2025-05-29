@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\refint\FullStructureProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\FullStructureProject\obj\Debug\net9.0\ref\FullStructureProject.dll

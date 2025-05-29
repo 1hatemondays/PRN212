@@ -1,0 +1,4 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\StaticAndNonStaticMethod\obj\Debug\net9.0\StaticAndNonStaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\StaticAndNonStaticMethod\obj\Debug\net9.0\StaticAndNonStaticMethod.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\StaticAndNonStaticMethod\obj\Debug\net9.0\StaticAndNonStaticMethod.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\StaticAndNonStaticMethod\obj\Debug\net9.0\StaticAndNonStaticMethod.csproj.CoreCompileInputs.cache

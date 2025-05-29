@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\bin\Debug\net9.0\CallbyReference.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\bin\Debug\net9.0\CallbyReference.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\bin\Debug\net9.0\CallbyReference.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\bin\Debug\net9.0\CallbyReference.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\bin\Debug\net9.0\CallbyReference.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\refint\CallbyReference.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\CallbyReference.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\CallbyReference\obj\Debug\net9.0\ref\CallbyReference.dll

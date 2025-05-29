@@ -1,0 +1,4 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.csproj.CoreCompileInputs.cache

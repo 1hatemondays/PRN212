@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDCADA-6648-4AC8-B2AF-E5ACE350BEB1}|TryParseVaLoop\\TryParseVaLoop.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFDCADA-6648-4AC8-B2AF-E5ACE350BEB1}|TryParseVaLoop\\TryParseVaLoop.csproj|solutionrelative:tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5FC405-C899-4E4A-83B5-151DB56A65D6}|StringInteraction\\StringInteraction.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5FC405-C899-4E4A-83B5-151DB56A65D6}|StringInteraction\\StringInteraction.csproj|solutionrelative:stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00E23C9-D512-4E6E-9AE0-7FE7794D84F8}|SimpleCalculation\\SimpleCalculation.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\simplecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00E23C9-D512-4E6E-9AE0-7FE7794D84F8}|SimpleCalculation\\SimpleCalculation.csproj|solutionrelative:simplecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3593F48A-DED7-4560-8546-5571B39C693E}|FirstDegree\\FirstDegree.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\firstdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3593F48A-DED7-4560-8546-5571B39C693E}|FirstDegree\\FirstDegree.csproj|solutionrelative:firstdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\TryParseVaLoop\\Program.cs",
+              "RelativeDocumentMoniker": "TryParseVaLoop\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\TryParseVaLoop\\Program.cs",
+              "RelativeToolTip": "TryParseVaLoop\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:16:39.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\StringInteraction\\Program.cs",
+              "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\StringInteraction\\Program.cs",
+              "RelativeToolTip": "StringInteraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:16:22.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\SimpleCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculation\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\SimpleCalculation\\Program.cs",
+              "RelativeToolTip": "SimpleCalculation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:15:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:14:54.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\FirstDegree\\Program.cs",
+              "RelativeDocumentMoniker": "FirstDegree\\Program.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\FirstDegree\\Program.cs",
+              "RelativeToolTip": "FirstDegree\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:14:13.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

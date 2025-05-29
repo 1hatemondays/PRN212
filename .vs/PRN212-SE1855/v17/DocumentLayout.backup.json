@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|solutionrelative:oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|solutionrelative:oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8399C6-8366-4DD8-B393-6BE0065A72A2}|OOP1\\OOP1.csproj|solutionrelative:oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9099E5-406F-41C8-85C1-762CC222534A}|NestedLoop\\NestedLoop.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9099E5-406F-41C8-85C1-762CC222534A}|NestedLoop\\NestedLoop.csproj|solutionrelative:nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE06E6F-36A4-40C6-8218-FFB92FDCD56B}|SortArray\\SortArray.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE06E6F-36A4-40C6-8218-FFB92FDCD56B}|SortArray\\SortArray.csproj|solutionrelative:sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EBA7A0-761F-4376-9780-F2D4C7A4AD66}|TuplesSample\\TuplesSample.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\tuplessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EBA7A0-761F-4376-9780-F2D4C7A4AD66}|TuplesSample\\TuplesSample.csproj|solutionrelative:tuplessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4113A9A7-7999-41ED-B266-C6484FCEADDB}|StaticAndNonStaticMethod\\StaticAndNonStaticMethod.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\staticandnonstaticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4113A9A7-7999-41ED-B266-C6484FCEADDB}|StaticAndNonStaticMethod\\StaticAndNonStaticMethod.csproj|solutionrelative:staticandnonstaticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F18F00-8DB5-4702-B879-93EE4EE55902}|parmasforarray\\parmasforarray.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\parmasforarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F18F00-8DB5-4702-B879-93EE4EE55902}|parmasforarray\\parmasforarray.csproj|solutionrelative:parmasforarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDCADA-6648-4AC8-B2AF-E5ACE350BEB1}|TryParseVaLoop\\TryParseVaLoop.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFDCADA-6648-4AC8-B2AF-E5ACE350BEB1}|TryParseVaLoop\\TryParseVaLoop.csproj|solutionrelative:tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC2CAEE-8EA2-4C1C-8710-A79E487AAC4B}|CallbyReference\\CallbyReference.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\callbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC2CAEE-8EA2-4C1C-8710-A79E487AAC4B}|CallbyReference\\CallbyReference.csproj|solutionrelative:callbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6C4633-9245-4488-B7DF-92E31FC8C577}|FullStructureProject\\FullStructureProject.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\fullstructureproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6C4633-9245-4488-B7DF-92E31FC8C577}|FullStructureProject\\FullStructureProject.csproj|solutionrelative:fullstructureproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5FC405-C899-4E4A-83B5-151DB56A65D6}|StringInteraction\\StringInteraction.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5FC405-C899-4E4A-83B5-151DB56A65D6}|StringInteraction\\StringInteraction.csproj|solutionrelative:stringinteraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951560B9-C935-4671-87F1-DC56BD149003}|QuadraticEquation\\QuadraticEquation.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951560B9-C935-4671-87F1-DC56BD149003}|QuadraticEquation\\QuadraticEquation.csproj|solutionrelative:quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D36EEEA-B62E-496D-9F22-3595B28A72AD}|VarAndDynamic\\VarAndDynamic.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\varanddynamic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D36EEEA-B62E-496D-9F22-3595B28A72AD}|VarAndDynamic\\VarAndDynamic.csproj|solutionrelative:varanddynamic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00E23C9-D512-4E6E-9AE0-7FE7794D84F8}|SimpleCalculation\\SimpleCalculation.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\simplecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00E23C9-D512-4E6E-9AE0-7FE7794D84F8}|SimpleCalculation\\SimpleCalculation.csproj|solutionrelative:simplecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3593F48A-DED7-4560-8546-5571B39C693E}|FirstDegree\\FirstDegree.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212-se1855\\firstdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3593F48A-DED7-4560-8546-5571B39C693E}|FirstDegree\\FirstDegree.csproj|solutionrelative:firstdegree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Customer.cs",
+              "RelativeDocumentMoniker": "OOP1\\Customer.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Customer.cs",
+              "RelativeToolTip": "OOP1\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:29:54.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP1\\Employee.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Employee.cs",
+              "RelativeToolTip": "OOP1\\Employee.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:43:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Category.cs",
+              "RelativeDocumentMoniker": "OOP1\\Category.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Category.cs",
+              "RelativeToolTip": "OOP1\\Category.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:34:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:33:50.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\NestedLoop\\Program.cs",
+              "RelativeDocumentMoniker": "NestedLoop\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\NestedLoop\\Program.cs",
+              "RelativeToolTip": "NestedLoop\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:33:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\SortArray\\Program.cs",
+              "RelativeDocumentMoniker": "SortArray\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\SortArray\\Program.cs",
+              "RelativeToolTip": "SortArray\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:59:14.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\TuplesSample\\Program.cs",
+              "RelativeDocumentMoniker": "TuplesSample\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\TuplesSample\\Program.cs",
+              "RelativeToolTip": "TuplesSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:49:46.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\StaticAndNonStaticMethod\\Program.cs",
+              "RelativeDocumentMoniker": "StaticAndNonStaticMethod\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\StaticAndNonStaticMethod\\Program.cs",
+              "RelativeToolTip": "StaticAndNonStaticMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:43:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\parmasforarray\\Program.cs",
+              "RelativeDocumentMoniker": "parmasforarray\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\parmasforarray\\Program.cs",
+              "RelativeToolTip": "parmasforarray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:32:32.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\TryParseVaLoop\\Program.cs",
+              "RelativeDocumentMoniker": "TryParseVaLoop\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\TryParseVaLoop\\Program.cs",
+              "RelativeToolTip": "TryParseVaLoop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:14:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\CallbyReference\\Program.cs",
+              "RelativeDocumentMoniker": "CallbyReference\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\CallbyReference\\Program.cs",
+              "RelativeToolTip": "CallbyReference\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:00:46.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\StringInteraction\\Program.cs",
+              "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\StringInteraction\\Program.cs",
+              "RelativeToolTip": "StringInteraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:43:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\QuadraticEquation\\Program.cs",
+              "RelativeDocumentMoniker": "QuadraticEquation\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\QuadraticEquation\\Program.cs",
+              "RelativeToolTip": "QuadraticEquation\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:19:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\VarAndDynamic\\Program.cs",
+              "RelativeDocumentMoniker": "VarAndDynamic\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\VarAndDynamic\\Program.cs",
+              "RelativeToolTip": "VarAndDynamic\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:15:50.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\FullStructureProject\\Program.cs",
+              "RelativeDocumentMoniker": "FullStructureProject\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\FullStructureProject\\Program.cs",
+              "RelativeToolTip": "FullStructureProject\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:49:43.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\SimpleCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculation\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\SimpleCalculation\\Program.cs",
+              "RelativeToolTip": "SimpleCalculation\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:30:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\FirstDegree\\Program.cs",
+              "RelativeDocumentMoniker": "FirstDegree\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212-SE1855\\FirstDegree\\Program.cs",
+              "RelativeToolTip": "FirstDegree\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:12:07.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
