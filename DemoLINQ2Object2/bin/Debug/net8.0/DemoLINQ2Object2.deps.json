@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DemoLINQ2Object2/1.0.0": {
+        "runtime": {
+          "DemoLINQ2Object2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoLINQ2Object2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

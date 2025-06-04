@@ -1,0 +1,15 @@
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\bin\Debug\net8.0\DemoLINQ2Object2.exe
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\bin\Debug\net8.0\DemoLINQ2Object2.deps.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\bin\Debug\net8.0\DemoLINQ2Object2.runtimeconfig.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\bin\Debug\net8.0\DemoLINQ2Object2.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\bin\Debug\net8.0\DemoLINQ2Object2.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.AssemblyInfoInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.AssemblyInfo.cs
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.csproj.CoreCompileInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.sourcelink.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\refint\DemoLINQ2Object2.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\DemoLINQ2Object2.genruntimeconfig.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoLINQ2Object2\obj\Debug\net8.0\ref\DemoLINQ2Object2.dll

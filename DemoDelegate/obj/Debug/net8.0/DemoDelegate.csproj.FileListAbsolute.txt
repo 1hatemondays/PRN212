@@ -1,0 +1,15 @@
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\bin\Debug\net8.0\DemoDelegate.exe
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\bin\Debug\net8.0\DemoDelegate.deps.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\bin\Debug\net8.0\DemoDelegate.runtimeconfig.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\bin\Debug\net8.0\DemoDelegate.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\bin\Debug\net8.0\DemoDelegate.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.AssemblyInfoInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.AssemblyInfo.cs
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.csproj.CoreCompileInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.sourcelink.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\refint\DemoDelegate.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\DemoDelegate.genruntimeconfig.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoDelegate\obj\Debug\net8.0\ref\DemoDelegate.dll

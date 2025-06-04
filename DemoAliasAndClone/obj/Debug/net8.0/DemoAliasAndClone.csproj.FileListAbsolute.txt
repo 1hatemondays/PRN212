@@ -1,0 +1,15 @@
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\bin\Debug\net8.0\DemoAliasAndClone.exe
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\bin\Debug\net8.0\DemoAliasAndClone.deps.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\bin\Debug\net8.0\DemoAliasAndClone.runtimeconfig.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\bin\Debug\net8.0\DemoAliasAndClone.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\bin\Debug\net8.0\DemoAliasAndClone.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.AssemblyInfoInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.AssemblyInfo.cs
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.csproj.CoreCompileInputs.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.sourcelink.json
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\refint\DemoAliasAndClone.dll
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.pdb
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\DemoAliasAndClone.genruntimeconfig.cache
+C:\FPTU\SU25\PRN212\PRN212-SE1855\DemoAliasAndClone\obj\Debug\net8.0\ref\DemoAliasAndClone.dll
