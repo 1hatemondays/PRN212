@@ -1,0 +1,14 @@
+C:\FPTU\SU25\PRN212\OOP2\OOP2\bin\Debug\net8.0\OOP2.exe
+C:\FPTU\SU25\PRN212\OOP2\OOP2\bin\Debug\net8.0\OOP2.deps.json
+C:\FPTU\SU25\PRN212\OOP2\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\FPTU\SU25\PRN212\OOP2\OOP2\bin\Debug\net8.0\OOP2.dll
+C:\FPTU\SU25\PRN212\OOP2\OOP2\bin\Debug\net8.0\OOP2.pdb
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.dll
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.pdb
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\FPTU\SU25\PRN212\OOP2\OOP2\obj\Debug\net8.0\ref\OOP2.dll
