@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\wpf-control2\\wpf-control2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|solutionrelative:wpf-control2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\wpf-control2\\wpf-control2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|solutionrelative:wpf-control2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|c:\\fptu\\su25\\prn212\\prn212-se1855\\wpf-control2\\wpf-control2\\wpf-control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB50FC23-C64B-4DF1-8EB7-F65CD8E209D5}|WPF-Control2\\WPF-Control2.csproj|solutionrelative:wpf-control2\\wpf-control2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WPF-Control2",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\WPF-Control2.csproj",
+              "RelativeDocumentMoniker": "WPF-Control2\\WPF-Control2.csproj",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\WPF-Control2.csproj",
+              "RelativeToolTip": "WPF-Control2\\WPF-Control2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T03:32:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-Control2\\MainWindow.xaml",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\MainWindow.xaml",
+              "RelativeToolTip": "WPF-Control2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T03:25:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-Control2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\WPF-Control2\\WPF-Control2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF-Control2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:25:25.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
