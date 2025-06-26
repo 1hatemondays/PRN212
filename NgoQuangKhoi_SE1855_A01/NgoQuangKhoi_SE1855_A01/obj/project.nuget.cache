@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BQzkqy1smdo=",
+  "dgSpecHash": "/7KDjpl2cVU=",
   "success": true,
-  "projectFilePath": "C:\\FPTU\\SU25\\PRN212\\NgoQuangKhoi_SE1855_A01\\NgoQuangKhoi_SE1855_A01\\NgoQuangKhoi_SE1855_A01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\FPTU\\SU25\\PRN212\\PRN212-SE1855\\Assignment 1\\Assignment 1\\NgoQuangKhoiWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
